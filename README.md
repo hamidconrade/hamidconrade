@@ -17,7 +17,10 @@
 - ⚡ Fun fact: ...
 -->
 <!-- my-badges start -->
-badges/stars/stars-20000.png
+<img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="128">
+<strong>I made an epic commit with a message over 500 chars.</strong>
+<br><br>
+
 <!-- my-badges end -->
   <a href="https://github.com/sponsors/hamidconrade">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
