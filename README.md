@@ -62,8 +62,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hamidconrade&show_icons=true&count_private=true&theme=dark" width="350"></a>
  </p>
 <p>
-   📫<a href='mailto:hamidconrade@gmail.com'>hamidconrade@gmail.com</a>
-   If you like my projects, <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/hamidconrade'>sponsor me ❤️</a>
+If you like my projects, <a href='https://stars.github.com/nominate/'>Nominate me to GitHub Stars ⭐</a> or <a href='https://github.com/sponsors/hamidconrade'>Sponsor me ❤️</a> or Mail Me 📫<a href='mailto:hamidconrade@gmail.com'>hamidconrade@gmail.com</a>
 </p>
 
 <details>
