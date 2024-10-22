@@ -55,8 +55,16 @@
 
 ## Education
 
+- 📖 **MIT Open Learning**\
+📆 2022 - Present\
+📍 **Massachusetts Institute of Technology** - Class of AI(Anthropics)
+
+- 📖 **Diploma IT**\
+📆 2015 - 2016\
+📍 **Eldoret Technical Training Institute** - Class of 2017
+
 - 📖 **BSc IT**\
-📆 2013 - 2016\
+📆 2014 - 2015\
 📍 **Zetech University** - Class of 2018
 
 ## Experience
