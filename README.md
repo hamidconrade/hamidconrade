@@ -21,7 +21,7 @@
         <img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic" title="Epic" width="128">
         <strong>Epic</strong>
     </div>
-    <div style="margin-right: 20px; text-align: center;">
+    <div style="margin-right: 50px; text-align: center;">
         <img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="Coder." title="Coder." width="128">
         <strong>Coder.</strong>
     </div>
