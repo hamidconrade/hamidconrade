@@ -84,7 +84,7 @@ If you like my projects, <a href='https://stars.github.com/nominate/'>Nominate m
 
 ## Experience
 
-- 👨‍💻 **Web Developer**\
+- 👨‍💻 **System Designer**\
 📆 2024 - Present\
 📍 **Namanga Hope Center** - Kajiado, Kenya
 </details>
