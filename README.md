@@ -49,8 +49,7 @@
 - ⚡ Fun fact: ...
 -->
 <p align='right'>
-  💻 
-   <a href="https://github.com/sponsors/hamidconrade">
+    <a href="https://github.com/sponsors/hamidconrade">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>&nbsp;&nbsp;
   <a href="https://ke.linkedin.com/in/conrade-mwembe-87333177/">
