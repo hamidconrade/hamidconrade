@@ -63,7 +63,7 @@
  </p>
 <p>
    📫<a href='mailto:hamidconrade@gmail.com'>hamidconrade@gmail.com</a>
-   Do you like my projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/hamidconrade'>sponsor me ❤️</a>
+   If you like my projects, <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/hamidconrade'>sponsor me ❤️</a>
 </p>
 
 <details>
