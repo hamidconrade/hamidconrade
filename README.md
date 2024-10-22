@@ -73,21 +73,33 @@
 📍 **Namanga Hope Center** - Kajiado, Kenya
 </details>
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-    <div style="margin-right: 20px; text-align: center;">
-        <img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic" title="Epic" width="128">
-        <strong>Epic</strong>
-    </div>
-    <div style="margin-right: 50px; text-align: center;">
-        <img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="Coder." title="Coder." width="128">
-        <strong>Coder.</strong>
-    </div>
-    <div style="margin-right: 20px; text-align: center;">
-        <img src="https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="Emoji" title="Emoji." width="128">
-        <strong>Emoji.</strong>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="VIP" title="VIP" width="128">
-        <strong>VIP</strong>
-    </div>
-</div>      
+<table align="center">
+  <tr>
+    <th>Badge</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic" title="Epic" width="128">
+    </td>
+    <td style="text-align: center;"><strong>Epic</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="Coder." title="Coder." width="128">
+    </td>
+    <td style="text-align: center;"><strong>Coder.</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="Emoji" title="Emoji." width="128">
+    </td>
+    <td style="text-align: center;"><strong>Emoji.</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="VIP" title="VIP" width="128">
+    </td>
+    <td style="text-align: center;"><strong>VIP</strong></td>
+  </tr>
+</table>
