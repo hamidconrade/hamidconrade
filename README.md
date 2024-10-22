@@ -20,23 +20,20 @@
     <div style="margin-right: 20px; text-align: center;">
         <img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic" title="Epic" width="128">
         <strong>Epic</strong>
-      
-        < div style="margin-right: 20px; text-align: center;">
+    </div>
+    <div style="margin-right: 20px; text-align: center;">
         <img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="Coder." title="Coder." width="128">
         <strong>Coder.</strong>
-          
-        <div style="margin-right: 20px; text-align: center;">
+    </div>
+    <div style="margin-right: 20px; text-align: center;">
         <img src="https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="Emoji" title="Emoji." width="128">
         <strong>Emoji.</strong>
-    
+    </div>
     <div style="text-align: center;">
         <img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="VIP" title="VIP" width="128">
         <strong>VIP</strong>
-    
+    </div>
 </div>
-
-
-
 
   <a href="https://github.com/sponsors/hamidconrade">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
