@@ -16,7 +16,25 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Epic](https://my-badges.github.io/my-badges/epic-commit.png)](https://my-badges.github.io/my-badges/epic-commit.png) [![Coder.](https://my-badges.github.io/my-badges/sleepy-coder.png)](https://my-badges.github.io/my-badges/sleepy-coder.png) [![Emoji.](https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true)](https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true) [![VIP](https://my-badges.github.io/my-badges/my-badges-contributor.png)](https://my-badges.github.io/my-badges/my-badges-contributor.png)
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 20px; text-align: center;">
+        <img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic" title="Epic" width="128">
+        <strong>Epic</strong>
+    </div>
+    <div style="margin-right: 20px; text-align: center;">
+        <img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="Coder." title="Coder." width="128">
+        <strong>Coder.</strong>
+    </div>
+    <div style="margin-right: 20px; text-align: center;">
+        <img src="https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="Emoji" title="Emoji." width="128">
+        <strong>Emoji.</strong>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="VIP" title="VIP" width="128">
+        <strong>VIP</strong>
+    </div>
+</div>
+)
 
 
 
