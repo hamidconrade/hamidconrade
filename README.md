@@ -17,8 +17,14 @@
 - ⚡ Fun fact: ...
 -->
 <!-- my-badges start -->
-<img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="Epic commit" width="128">
-<strong>Epic Commit</strong>
+<img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic" title="Epic" width="128">
+<strong>Epic</strong>
+<br><br>
+<img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="Coder." title="Coder." width="128">
+<strong>Coder.</strong>
+<br><br>
+<img src="https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="Emoji" title="Emoji." width="128">
+<strong>Emoji.</strong>
 <br><br>
 
 <!-- my-badges end -->
