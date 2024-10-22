@@ -70,6 +70,8 @@
 - 👨‍💻 **Web Developer**\
 📆 2024 - Present\
 📍 **Namanga Hope Center** - Kajiado, Kenya
+</details>
+
 <div style="display: flex; flex-direction: row; align-items: center;">
     <div style="margin-right: 20px; text-align: center;">
         <img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic" title="Epic" width="128">
