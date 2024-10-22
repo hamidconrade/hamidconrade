@@ -60,15 +60,10 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/hamidconrade'>sponsor me ❤️</a>
-</p>
-
-<!-- <details align='center'>
+<p align='left'>
+<!-- <details align='left'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
-
- <p align='center'>
   <a href="https://github.com/sponsors/hamidconrade">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>&nbsp;&nbsp;
@@ -76,6 +71,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  📫<a href='mailto:hamidconrade@gmail.com'>hamidconrade@gmail.com</a>
+   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/hamidconrade'>sponsor me ❤️</a>
 </p>
 
 <details>
