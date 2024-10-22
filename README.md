@@ -87,11 +87,21 @@
     <td style="text-align: center;">
       <img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="VIP" title="VIP" width="128">
     </td>
+    <td style="text-align: center;">
+     <img src="https://my-badges.github.io/my-badges/mass-delete-commit-10k.png" alt="Delete." title="Delete" width="128">
+    </td>
+    <td style="text-align: center;">
+     <img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="Language" title="Language" width="128">
+    </td>
   </tr>
   <tr>
     <td style="text-align: center;"><strong>Epic</strong></td>
     <td style="text-align: center;"><strong>Coder.</strong></td>
     <td style="text-align: center;"><strong>Emoji.</strong></td>
     <td style="text-align: center;"><strong>VIP</strong></td>
+    <td style="text-align: center;"><strong>Delete</strong></td>
+    <td style="text-align: center;"><strong>Language</strong></td>
   </tr>
 </table>
+
+<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="128">
