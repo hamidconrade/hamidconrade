@@ -49,14 +49,14 @@
 - ⚡ Fun fact: ...
 -->
 <p align='right'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hamidconrade&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="https://github.com/sponsors/hamidconrade">
+   <a href="https://github.com/sponsors/hamidconrade">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>&nbsp;&nbsp;
   <a href="https://ke.linkedin.com/in/conrade-mwembe-87333177/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-</p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hamidconrade&show_icons=true&count_private=true&theme=dark" width="350"></a>
+ </p>
 
 <p align='left'>
   💻 My workspace<br/><br/>
