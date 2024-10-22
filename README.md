@@ -73,13 +73,43 @@
 📍 **Namanga Hope Center** - Kajiado, Kenya
 </details>
 
-
+<table align="center">
+  <tr>
+    <td style="text-align: center;">
       <img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic" title="Epic" width="128">
- 
+    </td>
+    <td style="text-align: center;">
       <img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="Coder." title="Coder." width="128">
-
+    </td>
+    <td style="text-align: center;">
       <img src="https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="Emoji" title="Emoji." width="128">
-
+    </td>
+    <td style="text-align: center;">
       <img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="VIP" title="VIP" width="128">
-   
-     <img src="https://my-badges.github.io/my-badges/mass-delete-commit-10k.png" alt="Delete." title="Delete" width="128">
+    </td>
+    <td style="text-align: center;">
+      <img src="https://my-badges.github.io/my-badges/mass-delete-commit-10k.png" alt="Editor" title="Editor" width="128">
+    </td>
+    <td style="text-align: center;">
+      <img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="Language" title="Language" width="128">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Epic</strong></td>
+    <td style="text-align: center;"><strong>Coder.</strong></td>
+    <td style="text-align: center;"><strong>Emoji.</strong></td>
+    <td style="text-align: center;"><strong>VIP</strong></td>
+    <td style="text-align: center;"><strong>Editor</strong></td>
+    <td style="text-align: center;"><strong>Language</strong></td>
+  </tr>
+</table>
+
+<strong>When I delete code, I delete a lot.</strong>
+<br><br>
+
+Commits:
+
+- <a href="https://github.com/antonmedv/lazy-chain/commit/e55f656fba7ebd3aead79f4386c85283369f13dc">e55f656</a>
+
+
+Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
