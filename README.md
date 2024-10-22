@@ -16,7 +16,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- my-badges start -->
 <img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="Epic" title="Epic" width="128">
 <strong>Epic</strong>
 <br><br>
@@ -26,8 +25,10 @@
 <img src="https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="Emoji" title="Emoji." width="128">
 <strong>Emoji.</strong>
 <br><br>
+<img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="VIP" title="VIP" width="128">
+<strong>VIP</strong>
+<br><br>
 
-<!-- my-badges end -->
   <a href="https://github.com/sponsors/hamidconrade">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>&nbsp;&nbsp;
