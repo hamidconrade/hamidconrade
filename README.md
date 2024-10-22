@@ -61,15 +61,9 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hamidconrade&show_icons=true&count_private=true&theme=dark" width="350"></a>
  </p>
-
-<p align='left'>
-</p>
-<!-- <details align='left'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
 <p>
    📫<a href='mailto:hamidconrade@gmail.com'>hamidconrade@gmail.com</a>
-   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/hamidconrade'>sponsor me ❤️</a>
+   Do you like my projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/hamidconrade'>sponsor me ❤️</a>
 </p>
 
 <details>
