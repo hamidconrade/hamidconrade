@@ -4,7 +4,7 @@
 </h1>
 
 <p align='left'>
-  A developer from Kenya 👨‍💻 let's grow together.👯                    <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />  is my visitor count
+  A developer from Kenya 👨‍💻 let's grow together.👯                    <img src="https://profile-counter.glitch.me/hamidconrade/count.svg" />  is my visitor count
 </p>
 
 
