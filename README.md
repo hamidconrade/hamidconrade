@@ -1,8 +1,8 @@
 <h1 align='center'>
 
 ## Hi there 👋 I am ✨@hamidconrade✨
-</h1>
 
+</h1>
 <p align='left'>
   A developer from Kenya 👨‍💻 <img src="https://profile-counter.glitch.me/hamidconrade/count.svg" />  is the number of visits my account has gotten! Let's grow together.👯
 </p>
