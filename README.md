@@ -61,7 +61,8 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-<p align='center'>|<a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidconrade&layout=compact&theme=dark&show_icons=true&count_private=true&hide_border=true" width="350"></a>|<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hamidconrade&layout=compact&theme=dark&show_icons=true&count_private=true&hide_border=true" width="350"></a>|
+<p align='center'>|<a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidconrade&layout=compact&theme=dark&show_icons=true&count_private=true&hide_border=true&*.html linguist-detectable=true
+" width="350"></a>|<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hamidconrade&layout=compact&theme=dark&show_icons=true&count_private=true&hide_border=true" width="350"></a>|
  </p>
 <p>
 If you like my projects, <a href='https://stars.github.com/nominate/'>Nominate me to GitHub Stars ⭐</a> or <a href='https://github.com/sponsors/hamidconrade'>Sponsor me ❤️</a> or Mail Me 📫<a href='mailto:hamidconrade@gmail.com'>hamidconrade@gmail.com</a>
