@@ -64,7 +64,7 @@
 <p align='center'>|<a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidconrade&layout=compact&theme=dark&show_icons=true&count_private=true&hide_border=true" width="350"></a>|<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hamidconrade&layout=compact&theme=dark&show_icons=true&count_private=true&hide_border=true" width="350"></a>|
  </p>
 <p>
- < ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMIDCONRADE&layout=compact&theme=dark)
+ <![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMIDCONRADE&show_icons=true)
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMIDCONRADE&show_icons=true&theme=DARK)/>
 
 
