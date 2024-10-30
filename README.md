@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-<p align='center'>|<a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidconrade&layout=compact&theme=dark&show_icons=true&count_private=true&hide_border=true" width="350"></a>|<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hamidconrade&layout=compact&theme=dark&show_icons=true&count_private=true&hide_border=true" width="350"></a>|
+<p align='center'>|<a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidconrade&layout=compact&theme=dark&token=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" width="350"></a>|<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hamidconrade&layout=compact&theme=dark&token=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" width="350"></a>|
  </p>
 <p>
 
